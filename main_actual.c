@@ -33,7 +33,9 @@ void loadingBar();                                  //loading bar
 
 int main()
 {
+	
 	system("cls");
+	system("color 07");
 	loadingBar();
 	system("cls");
 	printf("\t\t=================================================\n");
